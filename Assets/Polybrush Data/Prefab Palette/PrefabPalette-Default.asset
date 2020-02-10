@@ -13,18 +13,186 @@ MonoBehaviour:
   m_Name: PrefabPalette-Default
   m_EditorClassIdentifier: 
   prefabs:
-  - gameObject: {fileID: 1193221890285788, guid: c8fe49a257e9ba149b7f1bef20dbddbe,
+  - gameObject: {fileID: 1015012424275216, guid: 2048325b4f675f944ae37d3930defaab,
       type: 3}
     settings:
       m_Strength: 50
       m_RotationRangeMin: {x: 0, y: 0, z: 0}
-      m_RotationRangeMax: {x: 0, y: 0, z: 0}
+      m_RotationRangeMax: {x: 0, y: 360, z: 0}
       m_ScaleRangeMin: {x: 1, y: 1, z: 1}
       m_ScaleRangeMax: {x: 1, y: 1, z: 1}
       m_UniformScale: {x: 1, y: 1}
       m_UniformBool: 0
       m_XRotationBool: 0
-      m_YRotationBool: 0
+      m_YRotationBool: 1
+      m_ZRotationBool: 0
+      m_XScaleBool: 0
+      m_YScaleBool: 0
+      m_ZScaleBool: 0
+    name: birch_1
+  - gameObject: {fileID: 168612, guid: 0237f9589c964a644940e246cfc341c9, type: 3}
+    settings:
+      m_Strength: 50
+      m_RotationRangeMin: {x: 0, y: 0, z: 0}
+      m_RotationRangeMax: {x: 0, y: 360, z: 0}
+      m_ScaleRangeMin: {x: 1, y: 1, z: 1}
+      m_ScaleRangeMax: {x: 1, y: 1, z: 1}
+      m_UniformScale: {x: 1, y: 1}
+      m_UniformBool: 0
+      m_XRotationBool: 0
+      m_YRotationBool: 1
+      m_ZRotationBool: 0
+      m_XScaleBool: 0
+      m_YScaleBool: 0
+      m_ZScaleBool: 0
+    name: birch_2
+  - gameObject: {fileID: 188516, guid: cacd2504cebaaf148a363634e4ace6a2, type: 3}
+    settings:
+      m_Strength: 50
+      m_RotationRangeMin: {x: 0, y: 0, z: 0}
+      m_RotationRangeMax: {x: 0, y: 360, z: 0}
+      m_ScaleRangeMin: {x: 1, y: 1, z: 1}
+      m_ScaleRangeMax: {x: 1, y: 1, z: 1}
+      m_UniformScale: {x: 1, y: 1}
+      m_UniformBool: 0
+      m_XRotationBool: 0
+      m_YRotationBool: 1
+      m_ZRotationBool: 0
+      m_XScaleBool: 0
+      m_YScaleBool: 0
+      m_ZScaleBool: 0
+    name: birch_3
+  - gameObject: {fileID: 1797389430061218, guid: add5d96af181fb04bb3ffa06c5711b25,
+      type: 3}
+    settings:
+      m_Strength: 50
+      m_RotationRangeMin: {x: 0, y: 0, z: 0}
+      m_RotationRangeMax: {x: 0, y: 360, z: 0}
+      m_ScaleRangeMin: {x: 1, y: 1, z: 1}
+      m_ScaleRangeMax: {x: 1, y: 1, z: 1}
+      m_UniformScale: {x: 1, y: 1}
+      m_UniformBool: 0
+      m_XRotationBool: 0
+      m_YRotationBool: 1
+      m_ZRotationBool: 0
+      m_XScaleBool: 0
+      m_YScaleBool: 0
+      m_ZScaleBool: 0
+    name: spruce_a1
+  - gameObject: {fileID: 1144325438365440, guid: 216a3e3817c5bfd4eb6f388a3e945544,
+      type: 3}
+    settings:
+      m_Strength: 50
+      m_RotationRangeMin: {x: 0, y: 0, z: 0}
+      m_RotationRangeMax: {x: 0, y: 360, z: 0}
+      m_ScaleRangeMin: {x: 1, y: 1, z: 1}
+      m_ScaleRangeMax: {x: 1, y: 1, z: 1}
+      m_UniformScale: {x: 1, y: 1}
+      m_UniformBool: 0
+      m_XRotationBool: 0
+      m_YRotationBool: 1
+      m_ZRotationBool: 0
+      m_XScaleBool: 0
+      m_YScaleBool: 0
+      m_ZScaleBool: 0
+    name: spruce_a2
+  - gameObject: {fileID: 1258073866871176, guid: d7a2025e08bf2834a90c498f2aa4875d,
+      type: 3}
+    settings:
+      m_Strength: 50
+      m_RotationRangeMin: {x: 0, y: 0, z: 0}
+      m_RotationRangeMax: {x: 0, y: 360, z: 0}
+      m_ScaleRangeMin: {x: 1, y: 1, z: 1}
+      m_ScaleRangeMax: {x: 1, y: 1, z: 1}
+      m_UniformScale: {x: 1, y: 1}
+      m_UniformBool: 0
+      m_XRotationBool: 0
+      m_YRotationBool: 1
+      m_ZRotationBool: 0
+      m_XScaleBool: 0
+      m_YScaleBool: 0
+      m_ZScaleBool: 0
+    name: spruce_a3
+  - gameObject: {fileID: 1482433654487396, guid: 49d07518daaf87a4686fe4cc816af879,
+      type: 3}
+    settings:
+      m_Strength: 50
+      m_RotationRangeMin: {x: 0, y: 0, z: 0}
+      m_RotationRangeMax: {x: 0, y: 360, z: 0}
+      m_ScaleRangeMin: {x: 1, y: 1, z: 1}
+      m_ScaleRangeMax: {x: 1, y: 1, z: 1}
+      m_UniformScale: {x: 1, y: 1}
+      m_UniformBool: 0
+      m_XRotationBool: 0
+      m_YRotationBool: 1
+      m_ZRotationBool: 0
+      m_XScaleBool: 0
+      m_YScaleBool: 0
+      m_ZScaleBool: 0
+    name: spruce_a4
+  - gameObject: {fileID: 1465467976897978, guid: a23ed5d72abe1db4d89d7741f11b6e5c,
+      type: 3}
+    settings:
+      m_Strength: 50
+      m_RotationRangeMin: {x: 0, y: 0, z: 0}
+      m_RotationRangeMax: {x: 0, y: 360, z: 0}
+      m_ScaleRangeMin: {x: 1, y: 1, z: 1}
+      m_ScaleRangeMax: {x: 1, y: 1, z: 1}
+      m_UniformScale: {x: 1, y: 1}
+      m_UniformBool: 0
+      m_XRotationBool: 0
+      m_YRotationBool: 1
+      m_ZRotationBool: 0
+      m_XScaleBool: 0
+      m_YScaleBool: 0
+      m_ZScaleBool: 0
+    name: spruce_b1
+  - gameObject: {fileID: 1940024348772196, guid: 17c10eb2bbcb1a9439c2986a1c3848c6,
+      type: 3}
+    settings:
+      m_Strength: 50
+      m_RotationRangeMin: {x: 0, y: 0, z: 0}
+      m_RotationRangeMax: {x: 0, y: 360, z: 0}
+      m_ScaleRangeMin: {x: 1, y: 1, z: 1}
+      m_ScaleRangeMax: {x: 1, y: 1, z: 1}
+      m_UniformScale: {x: 1, y: 1}
+      m_UniformBool: 0
+      m_XRotationBool: 0
+      m_YRotationBool: 1
+      m_ZRotationBool: 0
+      m_XScaleBool: 0
+      m_YScaleBool: 0
+      m_ZScaleBool: 0
+    name: spruce_b2
+  - gameObject: {fileID: 1009174412337782, guid: f4b1086431eef8d4299a5bfa6ea8563d,
+      type: 3}
+    settings:
+      m_Strength: 50
+      m_RotationRangeMin: {x: 0, y: 0, z: 0}
+      m_RotationRangeMax: {x: 0, y: 360, z: 0}
+      m_ScaleRangeMin: {x: 1, y: 1, z: 1}
+      m_ScaleRangeMax: {x: 1, y: 1, z: 1}
+      m_UniformScale: {x: 1, y: 1}
+      m_UniformBool: 0
+      m_XRotationBool: 0
+      m_YRotationBool: 1
+      m_ZRotationBool: 0
+      m_XScaleBool: 0
+      m_YScaleBool: 0
+      m_ZScaleBool: 0
+    name: spruce_b3
+  - gameObject: {fileID: 1193221890285788, guid: c8fe49a257e9ba149b7f1bef20dbddbe,
+      type: 3}
+    settings:
+      m_Strength: 50
+      m_RotationRangeMin: {x: 0, y: 0, z: 0}
+      m_RotationRangeMax: {x: 0, y: 360, z: 0}
+      m_ScaleRangeMin: {x: 1, y: 1, z: 1}
+      m_ScaleRangeMax: {x: 1, y: 1, z: 1}
+      m_UniformScale: {x: 1, y: 1}
+      m_UniformBool: 0
+      m_XRotationBool: 0
+      m_YRotationBool: 1
       m_ZRotationBool: 0
       m_XScaleBool: 0
       m_YScaleBool: 0
@@ -35,13 +203,13 @@ MonoBehaviour:
     settings:
       m_Strength: 50
       m_RotationRangeMin: {x: 0, y: 0, z: 0}
-      m_RotationRangeMax: {x: 0, y: 0, z: 0}
+      m_RotationRangeMax: {x: 0, y: 360, z: 0}
       m_ScaleRangeMin: {x: 1, y: 1, z: 1}
       m_ScaleRangeMax: {x: 1, y: 1, z: 1}
       m_UniformScale: {x: 1, y: 1}
       m_UniformBool: 0
       m_XRotationBool: 0
-      m_YRotationBool: 0
+      m_YRotationBool: 1
       m_ZRotationBool: 0
       m_XScaleBool: 0
       m_YScaleBool: 0
@@ -52,13 +220,13 @@ MonoBehaviour:
     settings:
       m_Strength: 50
       m_RotationRangeMin: {x: 0, y: 0, z: 0}
-      m_RotationRangeMax: {x: 0, y: 0, z: 0}
+      m_RotationRangeMax: {x: 0, y: 360, z: 0}
       m_ScaleRangeMin: {x: 1, y: 1, z: 1}
       m_ScaleRangeMax: {x: 1, y: 1, z: 1}
       m_UniformScale: {x: 1, y: 1}
       m_UniformBool: 0
       m_XRotationBool: 0
-      m_YRotationBool: 0
+      m_YRotationBool: 1
       m_ZRotationBool: 0
       m_XScaleBool: 0
       m_YScaleBool: 0
@@ -69,13 +237,13 @@ MonoBehaviour:
     settings:
       m_Strength: 50
       m_RotationRangeMin: {x: 0, y: 0, z: 0}
-      m_RotationRangeMax: {x: 0, y: 0, z: 0}
+      m_RotationRangeMax: {x: 0, y: 360, z: 0}
       m_ScaleRangeMin: {x: 1, y: 1, z: 1}
       m_ScaleRangeMax: {x: 1, y: 1, z: 1}
       m_UniformScale: {x: 1, y: 1}
       m_UniformBool: 0
       m_XRotationBool: 0
-      m_YRotationBool: 0
+      m_YRotationBool: 1
       m_ZRotationBool: 0
       m_XScaleBool: 0
       m_YScaleBool: 0
@@ -86,13 +254,13 @@ MonoBehaviour:
     settings:
       m_Strength: 50
       m_RotationRangeMin: {x: 0, y: 0, z: 0}
-      m_RotationRangeMax: {x: 0, y: 0, z: 0}
+      m_RotationRangeMax: {x: 0, y: 360, z: 0}
       m_ScaleRangeMin: {x: 1, y: 1, z: 1}
       m_ScaleRangeMax: {x: 1, y: 1, z: 1}
       m_UniformScale: {x: 1, y: 1}
       m_UniformBool: 0
       m_XRotationBool: 0
-      m_YRotationBool: 0
+      m_YRotationBool: 1
       m_ZRotationBool: 0
       m_XScaleBool: 0
       m_YScaleBool: 0
@@ -103,13 +271,13 @@ MonoBehaviour:
     settings:
       m_Strength: 50
       m_RotationRangeMin: {x: 0, y: 0, z: 0}
-      m_RotationRangeMax: {x: 0, y: 0, z: 0}
+      m_RotationRangeMax: {x: 0, y: 360, z: 0}
       m_ScaleRangeMin: {x: 1, y: 1, z: 1}
       m_ScaleRangeMax: {x: 1, y: 1, z: 1}
       m_UniformScale: {x: 1, y: 1}
       m_UniformBool: 0
       m_XRotationBool: 0
-      m_YRotationBool: 0
+      m_YRotationBool: 1
       m_ZRotationBool: 0
       m_XScaleBool: 0
       m_YScaleBool: 0
@@ -120,13 +288,13 @@ MonoBehaviour:
     settings:
       m_Strength: 50
       m_RotationRangeMin: {x: 0, y: 0, z: 0}
-      m_RotationRangeMax: {x: 0, y: 0, z: 0}
+      m_RotationRangeMax: {x: 0, y: 360, z: 0}
       m_ScaleRangeMin: {x: 1, y: 1, z: 1}
       m_ScaleRangeMax: {x: 1, y: 1, z: 1}
       m_UniformScale: {x: 1, y: 1}
       m_UniformBool: 0
       m_XRotationBool: 0
-      m_YRotationBool: 0
+      m_YRotationBool: 1
       m_ZRotationBool: 0
       m_XScaleBool: 0
       m_YScaleBool: 0
@@ -137,13 +305,13 @@ MonoBehaviour:
     settings:
       m_Strength: 50
       m_RotationRangeMin: {x: 0, y: 0, z: 0}
-      m_RotationRangeMax: {x: 0, y: 0, z: 0}
+      m_RotationRangeMax: {x: 0, y: 360, z: 0}
       m_ScaleRangeMin: {x: 1, y: 1, z: 1}
       m_ScaleRangeMax: {x: 1, y: 1, z: 1}
       m_UniformScale: {x: 1, y: 1}
       m_UniformBool: 0
       m_XRotationBool: 0
-      m_YRotationBool: 0
+      m_YRotationBool: 1
       m_ZRotationBool: 0
       m_XScaleBool: 0
       m_YScaleBool: 0
@@ -154,13 +322,13 @@ MonoBehaviour:
     settings:
       m_Strength: 50
       m_RotationRangeMin: {x: 0, y: 0, z: 0}
-      m_RotationRangeMax: {x: 0, y: 0, z: 0}
+      m_RotationRangeMax: {x: 0, y: 360, z: 0}
       m_ScaleRangeMin: {x: 1, y: 1, z: 1}
       m_ScaleRangeMax: {x: 1, y: 1, z: 1}
       m_UniformScale: {x: 1, y: 1}
       m_UniformBool: 0
       m_XRotationBool: 0
-      m_YRotationBool: 0
+      m_YRotationBool: 1
       m_ZRotationBool: 0
       m_XScaleBool: 0
       m_YScaleBool: 0
@@ -170,13 +338,13 @@ MonoBehaviour:
     settings:
       m_Strength: 50
       m_RotationRangeMin: {x: 0, y: 0, z: 0}
-      m_RotationRangeMax: {x: 0, y: 0, z: 0}
+      m_RotationRangeMax: {x: 0, y: 360, z: 0}
       m_ScaleRangeMin: {x: 1, y: 1, z: 1}
       m_ScaleRangeMax: {x: 1, y: 1, z: 1}
       m_UniformScale: {x: 1, y: 1}
       m_UniformBool: 0
       m_XRotationBool: 0
-      m_YRotationBool: 0
+      m_YRotationBool: 1
       m_ZRotationBool: 0
       m_XScaleBool: 0
       m_YScaleBool: 0
@@ -186,13 +354,13 @@ MonoBehaviour:
     settings:
       m_Strength: 50
       m_RotationRangeMin: {x: 0, y: 0, z: 0}
-      m_RotationRangeMax: {x: 0, y: 0, z: 0}
+      m_RotationRangeMax: {x: 0, y: 360, z: 0}
       m_ScaleRangeMin: {x: 1, y: 1, z: 1}
       m_ScaleRangeMax: {x: 1, y: 1, z: 1}
       m_UniformScale: {x: 1, y: 1}
       m_UniformBool: 0
       m_XRotationBool: 0
-      m_YRotationBool: 0
+      m_YRotationBool: 1
       m_ZRotationBool: 0
       m_XScaleBool: 0
       m_YScaleBool: 0
@@ -202,13 +370,13 @@ MonoBehaviour:
     settings:
       m_Strength: 50
       m_RotationRangeMin: {x: 0, y: 0, z: 0}
-      m_RotationRangeMax: {x: 0, y: 0, z: 0}
+      m_RotationRangeMax: {x: 0, y: 360, z: 0}
       m_ScaleRangeMin: {x: 1, y: 1, z: 1}
       m_ScaleRangeMax: {x: 1, y: 1, z: 1}
       m_UniformScale: {x: 1, y: 1}
       m_UniformBool: 0
       m_XRotationBool: 0
-      m_YRotationBool: 0
+      m_YRotationBool: 1
       m_ZRotationBool: 0
       m_XScaleBool: 0
       m_YScaleBool: 0
@@ -218,13 +386,13 @@ MonoBehaviour:
     settings:
       m_Strength: 50
       m_RotationRangeMin: {x: 0, y: 0, z: 0}
-      m_RotationRangeMax: {x: 0, y: 0, z: 0}
+      m_RotationRangeMax: {x: 0, y: 360, z: 0}
       m_ScaleRangeMin: {x: 1, y: 1, z: 1}
       m_ScaleRangeMax: {x: 1, y: 1, z: 1}
       m_UniformScale: {x: 1, y: 1}
       m_UniformBool: 0
       m_XRotationBool: 0
-      m_YRotationBool: 0
+      m_YRotationBool: 1
       m_ZRotationBool: 0
       m_XScaleBool: 0
       m_YScaleBool: 0
@@ -234,13 +402,13 @@ MonoBehaviour:
     settings:
       m_Strength: 50
       m_RotationRangeMin: {x: 0, y: 0, z: 0}
-      m_RotationRangeMax: {x: 0, y: 0, z: 0}
+      m_RotationRangeMax: {x: 0, y: 360, z: 0}
       m_ScaleRangeMin: {x: 1, y: 1, z: 1}
       m_ScaleRangeMax: {x: 1, y: 1, z: 1}
       m_UniformScale: {x: 1, y: 1}
       m_UniformBool: 0
       m_XRotationBool: 0
-      m_YRotationBool: 0
+      m_YRotationBool: 1
       m_ZRotationBool: 0
       m_XScaleBool: 0
       m_YScaleBool: 0
@@ -250,13 +418,13 @@ MonoBehaviour:
     settings:
       m_Strength: 50
       m_RotationRangeMin: {x: 0, y: 0, z: 0}
-      m_RotationRangeMax: {x: 0, y: 0, z: 0}
+      m_RotationRangeMax: {x: 0, y: 360, z: 0}
       m_ScaleRangeMin: {x: 1, y: 1, z: 1}
       m_ScaleRangeMax: {x: 1, y: 1, z: 1}
       m_UniformScale: {x: 1, y: 1}
       m_UniformBool: 0
       m_XRotationBool: 0
-      m_YRotationBool: 0
+      m_YRotationBool: 1
       m_ZRotationBool: 0
       m_XScaleBool: 0
       m_YScaleBool: 0
@@ -266,13 +434,13 @@ MonoBehaviour:
     settings:
       m_Strength: 50
       m_RotationRangeMin: {x: 0, y: 0, z: 0}
-      m_RotationRangeMax: {x: 0, y: 0, z: 0}
+      m_RotationRangeMax: {x: 0, y: 360, z: 0}
       m_ScaleRangeMin: {x: 1, y: 1, z: 1}
       m_ScaleRangeMax: {x: 1, y: 1, z: 1}
       m_UniformScale: {x: 1, y: 1}
       m_UniformBool: 0
       m_XRotationBool: 0
-      m_YRotationBool: 0
+      m_YRotationBool: 1
       m_ZRotationBool: 0
       m_XScaleBool: 0
       m_YScaleBool: 0
@@ -282,13 +450,13 @@ MonoBehaviour:
     settings:
       m_Strength: 50
       m_RotationRangeMin: {x: 0, y: 0, z: 0}
-      m_RotationRangeMax: {x: 0, y: 0, z: 0}
+      m_RotationRangeMax: {x: 0, y: 360, z: 0}
       m_ScaleRangeMin: {x: 1, y: 1, z: 1}
       m_ScaleRangeMax: {x: 1, y: 1, z: 1}
       m_UniformScale: {x: 1, y: 1}
       m_UniformBool: 0
       m_XRotationBool: 0
-      m_YRotationBool: 0
+      m_YRotationBool: 1
       m_ZRotationBool: 0
       m_XScaleBool: 0
       m_YScaleBool: 0
@@ -298,13 +466,13 @@ MonoBehaviour:
     settings:
       m_Strength: 50
       m_RotationRangeMin: {x: 0, y: 0, z: 0}
-      m_RotationRangeMax: {x: 0, y: 0, z: 0}
+      m_RotationRangeMax: {x: 0, y: 360, z: 0}
       m_ScaleRangeMin: {x: 1, y: 1, z: 1}
       m_ScaleRangeMax: {x: 1, y: 1, z: 1}
       m_UniformScale: {x: 1, y: 1}
       m_UniformBool: 0
       m_XRotationBool: 0
-      m_YRotationBool: 0
+      m_YRotationBool: 1
       m_ZRotationBool: 0
       m_XScaleBool: 0
       m_YScaleBool: 0
@@ -314,13 +482,13 @@ MonoBehaviour:
     settings:
       m_Strength: 50
       m_RotationRangeMin: {x: 0, y: 0, z: 0}
-      m_RotationRangeMax: {x: 0, y: 0, z: 0}
+      m_RotationRangeMax: {x: 0, y: 360, z: 0}
       m_ScaleRangeMin: {x: 1, y: 1, z: 1}
       m_ScaleRangeMax: {x: 1, y: 1, z: 1}
       m_UniformScale: {x: 1, y: 1}
       m_UniformBool: 0
       m_XRotationBool: 0
-      m_YRotationBool: 0
+      m_YRotationBool: 1
       m_ZRotationBool: 0
       m_XScaleBool: 0
       m_YScaleBool: 0
@@ -330,13 +498,13 @@ MonoBehaviour:
     settings:
       m_Strength: 50
       m_RotationRangeMin: {x: 0, y: 0, z: 0}
-      m_RotationRangeMax: {x: 0, y: 0, z: 0}
+      m_RotationRangeMax: {x: 0, y: 360, z: 0}
       m_ScaleRangeMin: {x: 1, y: 1, z: 1}
       m_ScaleRangeMax: {x: 1, y: 1, z: 1}
       m_UniformScale: {x: 1, y: 1}
       m_UniformBool: 0
       m_XRotationBool: 0
-      m_YRotationBool: 0
+      m_YRotationBool: 1
       m_ZRotationBool: 0
       m_XScaleBool: 0
       m_YScaleBool: 0
@@ -346,13 +514,13 @@ MonoBehaviour:
     settings:
       m_Strength: 50
       m_RotationRangeMin: {x: 0, y: 0, z: 0}
-      m_RotationRangeMax: {x: 0, y: 0, z: 0}
+      m_RotationRangeMax: {x: 0, y: 360, z: 0}
       m_ScaleRangeMin: {x: 1, y: 1, z: 1}
       m_ScaleRangeMax: {x: 1, y: 1, z: 1}
       m_UniformScale: {x: 1, y: 1}
       m_UniformBool: 0
       m_XRotationBool: 0
-      m_YRotationBool: 0
+      m_YRotationBool: 1
       m_ZRotationBool: 0
       m_XScaleBool: 0
       m_YScaleBool: 0
@@ -362,13 +530,13 @@ MonoBehaviour:
     settings:
       m_Strength: 50
       m_RotationRangeMin: {x: 0, y: 0, z: 0}
-      m_RotationRangeMax: {x: 0, y: 0, z: 0}
+      m_RotationRangeMax: {x: 0, y: 360, z: 0}
       m_ScaleRangeMin: {x: 1, y: 1, z: 1}
       m_ScaleRangeMax: {x: 1, y: 1, z: 1}
       m_UniformScale: {x: 1, y: 1}
       m_UniformBool: 0
       m_XRotationBool: 0
-      m_YRotationBool: 0
+      m_YRotationBool: 1
       m_ZRotationBool: 0
       m_XScaleBool: 0
       m_YScaleBool: 0
@@ -378,13 +546,13 @@ MonoBehaviour:
     settings:
       m_Strength: 50
       m_RotationRangeMin: {x: 0, y: 0, z: 0}
-      m_RotationRangeMax: {x: 0, y: 0, z: 0}
+      m_RotationRangeMax: {x: 0, y: 360, z: 0}
       m_ScaleRangeMin: {x: 1, y: 1, z: 1}
       m_ScaleRangeMax: {x: 1, y: 1, z: 1}
       m_UniformScale: {x: 1, y: 1}
       m_UniformBool: 0
       m_XRotationBool: 0
-      m_YRotationBool: 0
+      m_YRotationBool: 1
       m_ZRotationBool: 0
       m_XScaleBool: 0
       m_YScaleBool: 0
@@ -394,13 +562,13 @@ MonoBehaviour:
     settings:
       m_Strength: 50
       m_RotationRangeMin: {x: 0, y: 0, z: 0}
-      m_RotationRangeMax: {x: 0, y: 0, z: 0}
+      m_RotationRangeMax: {x: 0, y: 360, z: 0}
       m_ScaleRangeMin: {x: 1, y: 1, z: 1}
       m_ScaleRangeMax: {x: 1, y: 1, z: 1}
       m_UniformScale: {x: 1, y: 1}
       m_UniformBool: 0
       m_XRotationBool: 0
-      m_YRotationBool: 0
+      m_YRotationBool: 1
       m_ZRotationBool: 0
       m_XScaleBool: 0
       m_YScaleBool: 0
@@ -410,13 +578,13 @@ MonoBehaviour:
     settings:
       m_Strength: 50
       m_RotationRangeMin: {x: 0, y: 0, z: 0}
-      m_RotationRangeMax: {x: 0, y: 0, z: 0}
+      m_RotationRangeMax: {x: 0, y: 360, z: 0}
       m_ScaleRangeMin: {x: 1, y: 1, z: 1}
       m_ScaleRangeMax: {x: 1, y: 1, z: 1}
       m_UniformScale: {x: 1, y: 1}
       m_UniformBool: 0
       m_XRotationBool: 0
-      m_YRotationBool: 0
+      m_YRotationBool: 1
       m_ZRotationBool: 0
       m_XScaleBool: 0
       m_YScaleBool: 0
@@ -426,13 +594,13 @@ MonoBehaviour:
     settings:
       m_Strength: 50
       m_RotationRangeMin: {x: 0, y: 0, z: 0}
-      m_RotationRangeMax: {x: 0, y: 0, z: 0}
+      m_RotationRangeMax: {x: 0, y: 360, z: 0}
       m_ScaleRangeMin: {x: 1, y: 1, z: 1}
       m_ScaleRangeMax: {x: 1, y: 1, z: 1}
       m_UniformScale: {x: 1, y: 1}
       m_UniformBool: 0
       m_XRotationBool: 0
-      m_YRotationBool: 0
+      m_YRotationBool: 1
       m_ZRotationBool: 0
       m_XScaleBool: 0
       m_YScaleBool: 0
@@ -442,13 +610,13 @@ MonoBehaviour:
     settings:
       m_Strength: 50
       m_RotationRangeMin: {x: 0, y: 0, z: 0}
-      m_RotationRangeMax: {x: 0, y: 0, z: 0}
+      m_RotationRangeMax: {x: 0, y: 360, z: 0}
       m_ScaleRangeMin: {x: 1, y: 1, z: 1}
       m_ScaleRangeMax: {x: 1, y: 1, z: 1}
       m_UniformScale: {x: 1, y: 1}
       m_UniformBool: 0
       m_XRotationBool: 0
-      m_YRotationBool: 0
+      m_YRotationBool: 1
       m_ZRotationBool: 0
       m_XScaleBool: 0
       m_YScaleBool: 0
@@ -458,13 +626,13 @@ MonoBehaviour:
     settings:
       m_Strength: 50
       m_RotationRangeMin: {x: 0, y: 0, z: 0}
-      m_RotationRangeMax: {x: 0, y: 0, z: 0}
+      m_RotationRangeMax: {x: 0, y: 360, z: 0}
       m_ScaleRangeMin: {x: 1, y: 1, z: 1}
       m_ScaleRangeMax: {x: 1, y: 1, z: 1}
       m_UniformScale: {x: 1, y: 1}
       m_UniformBool: 0
       m_XRotationBool: 0
-      m_YRotationBool: 0
+      m_YRotationBool: 1
       m_ZRotationBool: 0
       m_XScaleBool: 0
       m_YScaleBool: 0
@@ -474,13 +642,13 @@ MonoBehaviour:
     settings:
       m_Strength: 50
       m_RotationRangeMin: {x: 0, y: 0, z: 0}
-      m_RotationRangeMax: {x: 0, y: 0, z: 0}
+      m_RotationRangeMax: {x: 0, y: 360, z: 0}
       m_ScaleRangeMin: {x: 1, y: 1, z: 1}
       m_ScaleRangeMax: {x: 1, y: 1, z: 1}
       m_UniformScale: {x: 1, y: 1}
       m_UniformBool: 0
       m_XRotationBool: 0
-      m_YRotationBool: 0
+      m_YRotationBool: 1
       m_ZRotationBool: 0
       m_XScaleBool: 0
       m_YScaleBool: 0
@@ -490,13 +658,13 @@ MonoBehaviour:
     settings:
       m_Strength: 50
       m_RotationRangeMin: {x: 0, y: 0, z: 0}
-      m_RotationRangeMax: {x: 0, y: 0, z: 0}
+      m_RotationRangeMax: {x: 0, y: 360, z: 0}
       m_ScaleRangeMin: {x: 1, y: 1, z: 1}
       m_ScaleRangeMax: {x: 1, y: 1, z: 1}
       m_UniformScale: {x: 1, y: 1}
       m_UniformBool: 0
       m_XRotationBool: 0
-      m_YRotationBool: 0
+      m_YRotationBool: 1
       m_ZRotationBool: 0
       m_XScaleBool: 0
       m_YScaleBool: 0
@@ -506,13 +674,13 @@ MonoBehaviour:
     settings:
       m_Strength: 50
       m_RotationRangeMin: {x: 0, y: 0, z: 0}
-      m_RotationRangeMax: {x: 0, y: 0, z: 0}
+      m_RotationRangeMax: {x: 0, y: 360, z: 0}
       m_ScaleRangeMin: {x: 1, y: 1, z: 1}
       m_ScaleRangeMax: {x: 1, y: 1, z: 1}
       m_UniformScale: {x: 1, y: 1}
       m_UniformBool: 0
       m_XRotationBool: 0
-      m_YRotationBool: 0
+      m_YRotationBool: 1
       m_ZRotationBool: 0
       m_XScaleBool: 0
       m_YScaleBool: 0
@@ -522,13 +690,13 @@ MonoBehaviour:
     settings:
       m_Strength: 50
       m_RotationRangeMin: {x: 0, y: 0, z: 0}
-      m_RotationRangeMax: {x: 0, y: 0, z: 0}
+      m_RotationRangeMax: {x: 0, y: 360, z: 0}
       m_ScaleRangeMin: {x: 1, y: 1, z: 1}
       m_ScaleRangeMax: {x: 1, y: 1, z: 1}
       m_UniformScale: {x: 1, y: 1}
       m_UniformBool: 0
       m_XRotationBool: 0
-      m_YRotationBool: 0
+      m_YRotationBool: 1
       m_ZRotationBool: 0
       m_XScaleBool: 0
       m_YScaleBool: 0
@@ -539,13 +707,13 @@ MonoBehaviour:
     settings:
       m_Strength: 50
       m_RotationRangeMin: {x: 0, y: 0, z: 0}
-      m_RotationRangeMax: {x: 0, y: 0, z: 0}
+      m_RotationRangeMax: {x: 0, y: 360, z: 0}
       m_ScaleRangeMin: {x: 1, y: 1, z: 1}
       m_ScaleRangeMax: {x: 1, y: 1, z: 1}
       m_UniformScale: {x: 1, y: 1}
       m_UniformBool: 0
       m_XRotationBool: 0
-      m_YRotationBool: 0
+      m_YRotationBool: 1
       m_ZRotationBool: 0
       m_XScaleBool: 0
       m_YScaleBool: 0
@@ -556,13 +724,13 @@ MonoBehaviour:
     settings:
       m_Strength: 50
       m_RotationRangeMin: {x: 0, y: 0, z: 0}
-      m_RotationRangeMax: {x: 0, y: 0, z: 0}
+      m_RotationRangeMax: {x: 0, y: 360, z: 0}
       m_ScaleRangeMin: {x: 1, y: 1, z: 1}
       m_ScaleRangeMax: {x: 1, y: 1, z: 1}
       m_UniformScale: {x: 1, y: 1}
       m_UniformBool: 0
       m_XRotationBool: 0
-      m_YRotationBool: 0
+      m_YRotationBool: 1
       m_ZRotationBool: 0
       m_XScaleBool: 0
       m_YScaleBool: 0
@@ -573,15 +741,298 @@ MonoBehaviour:
     settings:
       m_Strength: 50
       m_RotationRangeMin: {x: 0, y: 0, z: 0}
-      m_RotationRangeMax: {x: 0, y: 0, z: 0}
+      m_RotationRangeMax: {x: 0, y: 360, z: 0}
       m_ScaleRangeMin: {x: 1, y: 1, z: 1}
       m_ScaleRangeMax: {x: 1, y: 1, z: 1}
       m_UniformScale: {x: 1, y: 1}
       m_UniformBool: 0
       m_XRotationBool: 0
-      m_YRotationBool: 0
+      m_YRotationBool: 1
       m_ZRotationBool: 0
       m_XScaleBool: 0
       m_YScaleBool: 0
       m_ZScaleBool: 0
     name: smallbush2
+  - gameObject: {fileID: 1112097483437414, guid: 1aefe10ca883d3d4a9fdcd65ba7ba1ef,
+      type: 3}
+    settings:
+      m_Strength: 50
+      m_RotationRangeMin: {x: 0, y: 0, z: 0}
+      m_RotationRangeMax: {x: 0, y: 360, z: 0}
+      m_ScaleRangeMin: {x: 1, y: 1, z: 1}
+      m_ScaleRangeMax: {x: 1, y: 1, z: 1}
+      m_UniformScale: {x: 1, y: 1}
+      m_UniformBool: 0
+      m_XRotationBool: 0
+      m_YRotationBool: 1
+      m_ZRotationBool: 0
+      m_XScaleBool: 0
+      m_YScaleBool: 0
+      m_ZScaleBool: 0
+    name: birch_1_autumn
+  - gameObject: {fileID: 1581176037929024, guid: e3cbff79a31c8614a8058292300684a6,
+      type: 3}
+    settings:
+      m_Strength: 50
+      m_RotationRangeMin: {x: 0, y: 0, z: 0}
+      m_RotationRangeMax: {x: 0, y: 360, z: 0}
+      m_ScaleRangeMin: {x: 1, y: 1, z: 1}
+      m_ScaleRangeMax: {x: 1, y: 1, z: 1}
+      m_UniformScale: {x: 1, y: 1}
+      m_UniformBool: 0
+      m_XRotationBool: 0
+      m_YRotationBool: 1
+      m_ZRotationBool: 0
+      m_XScaleBool: 0
+      m_YScaleBool: 0
+      m_ZScaleBool: 0
+    name: birch_2_autumn
+  - gameObject: {fileID: 1433250131952092, guid: f649fa58d371cff4a803897457886250,
+      type: 3}
+    settings:
+      m_Strength: 50
+      m_RotationRangeMin: {x: 0, y: 0, z: 0}
+      m_RotationRangeMax: {x: 0, y: 360, z: 0}
+      m_ScaleRangeMin: {x: 1, y: 1, z: 1}
+      m_ScaleRangeMax: {x: 1, y: 1, z: 1}
+      m_UniformScale: {x: 1, y: 1}
+      m_UniformBool: 0
+      m_XRotationBool: 0
+      m_YRotationBool: 1
+      m_ZRotationBool: 0
+      m_XScaleBool: 0
+      m_YScaleBool: 0
+      m_ZScaleBool: 0
+    name: birch_3_autumn
+  - gameObject: {fileID: 1065410284288052, guid: 804b7fc9a595e0443a8d59b95ec461b1,
+      type: 3}
+    settings:
+      m_Strength: 50
+      m_RotationRangeMin: {x: 0, y: 0, z: 0}
+      m_RotationRangeMax: {x: 0, y: 360, z: 0}
+      m_ScaleRangeMin: {x: 1, y: 1, z: 1}
+      m_ScaleRangeMax: {x: 1, y: 1, z: 1}
+      m_UniformScale: {x: 1, y: 1}
+      m_UniformBool: 0
+      m_XRotationBool: 0
+      m_YRotationBool: 1
+      m_ZRotationBool: 0
+      m_XScaleBool: 0
+      m_YScaleBool: 0
+      m_ZScaleBool: 0
+    name: spruce_a1_autumn
+  - gameObject: {fileID: 1389166831782782, guid: 66bbc391643083a41b8ebdcdf75eee1b,
+      type: 3}
+    settings:
+      m_Strength: 50
+      m_RotationRangeMin: {x: 0, y: 0, z: 0}
+      m_RotationRangeMax: {x: 0, y: 360, z: 0}
+      m_ScaleRangeMin: {x: 1, y: 1, z: 1}
+      m_ScaleRangeMax: {x: 1, y: 1, z: 1}
+      m_UniformScale: {x: 1, y: 1}
+      m_UniformBool: 0
+      m_XRotationBool: 0
+      m_YRotationBool: 1
+      m_ZRotationBool: 0
+      m_XScaleBool: 0
+      m_YScaleBool: 0
+      m_ZScaleBool: 0
+    name: spruce_a2_autumn
+  - gameObject: {fileID: 1288689988006380, guid: 973f9aa6d0fab724281ff2eb644b1c56,
+      type: 3}
+    settings:
+      m_Strength: 50
+      m_RotationRangeMin: {x: 0, y: 0, z: 0}
+      m_RotationRangeMax: {x: 0, y: 360, z: 0}
+      m_ScaleRangeMin: {x: 1, y: 1, z: 1}
+      m_ScaleRangeMax: {x: 1, y: 1, z: 1}
+      m_UniformScale: {x: 1, y: 1}
+      m_UniformBool: 0
+      m_XRotationBool: 0
+      m_YRotationBool: 1
+      m_ZRotationBool: 0
+      m_XScaleBool: 0
+      m_YScaleBool: 0
+      m_ZScaleBool: 0
+    name: spruce_a3_autumn
+  - gameObject: {fileID: 1301139124687690, guid: 666eef32867aff9488c9790d0c712a9d,
+      type: 3}
+    settings:
+      m_Strength: 50
+      m_RotationRangeMin: {x: 0, y: 0, z: 0}
+      m_RotationRangeMax: {x: 0, y: 360, z: 0}
+      m_ScaleRangeMin: {x: 1, y: 1, z: 1}
+      m_ScaleRangeMax: {x: 1, y: 1, z: 1}
+      m_UniformScale: {x: 1, y: 1}
+      m_UniformBool: 0
+      m_XRotationBool: 0
+      m_YRotationBool: 1
+      m_ZRotationBool: 0
+      m_XScaleBool: 0
+      m_YScaleBool: 0
+      m_ZScaleBool: 0
+    name: spruce_a4_autumn
+  - gameObject: {fileID: 1530084213146766, guid: d68b697790ff24a4a8f1002782ff6ed6,
+      type: 3}
+    settings:
+      m_Strength: 50
+      m_RotationRangeMin: {x: 0, y: 0, z: 0}
+      m_RotationRangeMax: {x: 0, y: 360, z: 0}
+      m_ScaleRangeMin: {x: 1, y: 1, z: 1}
+      m_ScaleRangeMax: {x: 1, y: 1, z: 1}
+      m_UniformScale: {x: 1, y: 1}
+      m_UniformBool: 0
+      m_XRotationBool: 0
+      m_YRotationBool: 1
+      m_ZRotationBool: 0
+      m_XScaleBool: 0
+      m_YScaleBool: 0
+      m_ZScaleBool: 0
+    name: spruce_b1_autumn
+  - gameObject: {fileID: 1335926570436524, guid: 7f50b0462aeff7644865cbb31346caad,
+      type: 3}
+    settings:
+      m_Strength: 50
+      m_RotationRangeMin: {x: 0, y: 0, z: 0}
+      m_RotationRangeMax: {x: 0, y: 360, z: 0}
+      m_ScaleRangeMin: {x: 1, y: 1, z: 1}
+      m_ScaleRangeMax: {x: 1, y: 1, z: 1}
+      m_UniformScale: {x: 1, y: 1}
+      m_UniformBool: 0
+      m_XRotationBool: 0
+      m_YRotationBool: 1
+      m_ZRotationBool: 0
+      m_XScaleBool: 0
+      m_YScaleBool: 0
+      m_ZScaleBool: 0
+    name: spruce_b2_autumn
+  - gameObject: {fileID: 1354711438794568, guid: 2c4c5f3687ba16149af886da7aaee4b8,
+      type: 3}
+    settings:
+      m_Strength: 50
+      m_RotationRangeMin: {x: 0, y: 0, z: 0}
+      m_RotationRangeMax: {x: 0, y: 360, z: 0}
+      m_ScaleRangeMin: {x: 1, y: 1, z: 1}
+      m_ScaleRangeMax: {x: 1, y: 1, z: 1}
+      m_UniformScale: {x: 1, y: 1}
+      m_UniformBool: 0
+      m_XRotationBool: 0
+      m_YRotationBool: 1
+      m_ZRotationBool: 0
+      m_XScaleBool: 0
+      m_YScaleBool: 0
+      m_ZScaleBool: 0
+    name: spruce_b3_autumn
+  - gameObject: {fileID: 1399811357556078, guid: cf72f46f8b56b9e4fb6ea1084166a3b5,
+      type: 3}
+    settings:
+      m_Strength: 50
+      m_RotationRangeMin: {x: 0, y: 0, z: 0}
+      m_RotationRangeMax: {x: 0, y: 360, z: 0}
+      m_ScaleRangeMin: {x: 1, y: 1, z: 1}
+      m_ScaleRangeMax: {x: 1, y: 1, z: 1}
+      m_UniformScale: {x: 1, y: 1}
+      m_UniformBool: 0
+      m_XRotationBool: 0
+      m_YRotationBool: 1
+      m_ZRotationBool: 0
+      m_XScaleBool: 0
+      m_YScaleBool: 0
+      m_ZScaleBool: 0
+    name: tree_1_autumn
+  - gameObject: {fileID: 149720, guid: 52acfc2243bae2447bee429060df0603, type: 3}
+    settings:
+      m_Strength: 50
+      m_RotationRangeMin: {x: 0, y: 0, z: 0}
+      m_RotationRangeMax: {x: 0, y: 360, z: 0}
+      m_ScaleRangeMin: {x: 1, y: 1, z: 1}
+      m_ScaleRangeMax: {x: 1, y: 1, z: 1}
+      m_UniformScale: {x: 1, y: 1}
+      m_UniformBool: 0
+      m_XRotationBool: 0
+      m_YRotationBool: 1
+      m_ZRotationBool: 0
+      m_XScaleBool: 0
+      m_YScaleBool: 0
+      m_ZScaleBool: 0
+    name: grass01
+  - gameObject: {fileID: 136814, guid: dc2dda6cfecb14e419a55f55210eb065, type: 3}
+    settings:
+      m_Strength: 50
+      m_RotationRangeMin: {x: 0, y: 0, z: 0}
+      m_RotationRangeMax: {x: 0, y: 360, z: 0}
+      m_ScaleRangeMin: {x: 1, y: 1, z: 1}
+      m_ScaleRangeMax: {x: 1, y: 1, z: 1}
+      m_UniformScale: {x: 1, y: 1}
+      m_UniformBool: 0
+      m_XRotationBool: 0
+      m_YRotationBool: 1
+      m_ZRotationBool: 0
+      m_XScaleBool: 0
+      m_YScaleBool: 0
+      m_ZScaleBool: 0
+    name: grass02
+  - gameObject: {fileID: 144470, guid: eeba002e5f3f4374caeffe7103221324, type: 3}
+    settings:
+      m_Strength: 50
+      m_RotationRangeMin: {x: 0, y: 0, z: 0}
+      m_RotationRangeMax: {x: 0, y: 360, z: 0}
+      m_ScaleRangeMin: {x: 1, y: 1, z: 1}
+      m_ScaleRangeMax: {x: 1, y: 1, z: 1}
+      m_UniformScale: {x: 1, y: 1}
+      m_UniformBool: 0
+      m_XRotationBool: 0
+      m_YRotationBool: 1
+      m_ZRotationBool: 0
+      m_XScaleBool: 0
+      m_YScaleBool: 0
+      m_ZScaleBool: 0
+    name: grass_short01
+  - gameObject: {fileID: 104614, guid: e6e8c7e0d06e941429b0434245ab0a1c, type: 3}
+    settings:
+      m_Strength: 50
+      m_RotationRangeMin: {x: 0, y: 0, z: 0}
+      m_RotationRangeMax: {x: 0, y: 360, z: 0}
+      m_ScaleRangeMin: {x: 1, y: 1, z: 1}
+      m_ScaleRangeMax: {x: 1, y: 1, z: 1}
+      m_UniformScale: {x: 1, y: 1}
+      m_UniformBool: 0
+      m_XRotationBool: 0
+      m_YRotationBool: 1
+      m_ZRotationBool: 0
+      m_XScaleBool: 0
+      m_YScaleBool: 0
+      m_ZScaleBool: 0
+    name: grass_short02
+  - gameObject: {fileID: 143198, guid: 18306c379f617254a8cede4a467b3108, type: 3}
+    settings:
+      m_Strength: 50
+      m_RotationRangeMin: {x: 0, y: 0, z: 0}
+      m_RotationRangeMax: {x: 0, y: 360, z: 0}
+      m_ScaleRangeMin: {x: 1, y: 1, z: 1}
+      m_ScaleRangeMax: {x: 1, y: 1, z: 1}
+      m_UniformScale: {x: 1, y: 1}
+      m_UniformBool: 0
+      m_XRotationBool: 0
+      m_YRotationBool: 1
+      m_ZRotationBool: 0
+      m_XScaleBool: 0
+      m_YScaleBool: 0
+      m_ZScaleBool: 0
+    name: reeds_small
+  - gameObject: {fileID: 142896, guid: cd431353b30c0f941adf4949bf508cde, type: 3}
+    settings:
+      m_Strength: 50
+      m_RotationRangeMin: {x: 0, y: 0, z: 0}
+      m_RotationRangeMax: {x: 0, y: 360, z: 0}
+      m_ScaleRangeMin: {x: 1, y: 1, z: 1}
+      m_ScaleRangeMax: {x: 1, y: 1, z: 1}
+      m_UniformScale: {x: 1, y: 1}
+      m_UniformBool: 0
+      m_XRotationBool: 0
+      m_YRotationBool: 1
+      m_ZRotationBool: 0
+      m_XScaleBool: 0
+      m_YScaleBool: 0
+      m_ZScaleBool: 0
+    name: reeds_large
