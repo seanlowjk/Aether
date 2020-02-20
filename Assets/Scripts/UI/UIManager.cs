@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
+// The UIManager to be put in the Managers Component in the Scene 
 public class UIManager : Singleton<UIManager>
 {
     [SerializeField]
